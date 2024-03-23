@@ -4,7 +4,7 @@
 
 <br>
 <br>
-I’ve created a sales dashboard on Microsoft Excel. Which is <b>interactive and user-friendly</b>.
+I’ve created this sales dashboard on Microsoft Excel. Which is <b>interactive and user-friendly</b>.
 <br>
 
 <h2>Project Overview</h2>
