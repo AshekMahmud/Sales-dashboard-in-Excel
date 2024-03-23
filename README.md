@@ -7,24 +7,24 @@
 I’ve created a sales dashboard on Microsoft Excel. Which is interactive and user-friendly.
 <br>
 
-<h2>Project Overview:</h2>
-<br>
+<h2>Project Overview</h2>
+<br><br>
 <b>Sales Analysis:</b> Presented a comparative view of sales, profits, and growth between the previous and current year.
 <br>
 <b>Detailed Tables:</b> Developed two comprehensive tables detailing sales and growth by sub-category and city for both years.
-<br>
+<br><br>
 <b>Visual Insights:</b>
-<br>
+<br><br>
 <b>Pie Chart:</b> Illustrated region-wise total sales and sub-category-wise profit distribution.
 <br>
 <b>Hybrid Chart:</b> Crafted a chart combining bar (for sales) and line (for price) representations to highlight sales trends.
-<br>
+<br><br>
 <b>Top Performers:</b>
-<br>
+<br><br>
 <b>Bar Chart:</b> Showcased the top 10 best-selling states with a bar chart to identify high-performing regions.
-<br>
+<br><br>
 <b>Interactive Elements:</b>
-<br>
+<br><br>
 <b>Slicers:</b> Implemented slicers for segments, categories, and regions to enable dynamic data exploration.
 <br>
 <br>
