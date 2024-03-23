@@ -8,7 +8,7 @@ I’ve created a sales dashboard on Microsoft Excel. Which is interactive and us
 <br>
 
 <h2>Project Overview</h2>
-<br><br>
+<br>
 <b>Sales Analysis:</b> Presented a comparative view of sales, profits, and growth between the previous and current year.
 <br>
 <b>Detailed Tables:</b> Developed two comprehensive tables detailing sales and growth by sub-category and city for both years.
