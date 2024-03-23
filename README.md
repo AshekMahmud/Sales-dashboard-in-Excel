@@ -1,6 +1,8 @@
 <h1>Sales-dashboard-in-Excel</h1>
 
 I’ve created a sales dashboard on Microsoft Excel. Which is interactive and user-friendly.
+<br>
+![Interactive Dashboard](https://github.com/AshekMahmud/Sales-dashboard-in-Excel/assets/140879487/de373de9-6cfd-4a00-ad38-41ab9aadfe73)
 
 <h2>Why do I use Excel</h2>
 <br>
