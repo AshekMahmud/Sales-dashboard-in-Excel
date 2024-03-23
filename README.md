@@ -1,9 +1,31 @@
 <h1>Sales-dashboard-in-Excel</h1>
 
+![Interactive Dashboard](https://github.com/AshekMahmud/Sales-dashboard-in-Excel/assets/140879487/de373de9-6cfd-4a00-ad38-41ab9aadfe73)
+
+<br>
+<br>
 I’ve created a sales dashboard on Microsoft Excel. Which is interactive and user-friendly.
 <br>
+
+<h2>Project Overview:</h2>
 <br>
-![Interactive Dashboard](https://github.com/AshekMahmud/Sales-dashboard-in-Excel/assets/140879487/de373de9-6cfd-4a00-ad38-41ab9aadfe73)
+<b>Sales Analysis:</b> Presented a comparative view of sales, profits, and growth between the previous and current year.
+<br>
+<strong>Detailed Tables:</strong> Developed two comprehensive tables detailing sales and growth by sub-category and city for both years.
+
+Visual Insights:
+
+Pie Chart: Illustrated region-wise total sales and sub-category-wise profit distribution.
+Hybrid Chart: Crafted a chart combining bar (for sales) and line (for price) representations to highlight sales trends.
+
+Top Performers:
+
+Bar Chart: Showcased the top 10 best-selling states with a bar chart to identify high-performing regions.
+
+Interactive Elements:
+
+Slicers: Implemented slicers for segments, categories, and regions to enable dynamic data exploration.
+
 
 <h2>Why do I use Excel</h2>
 <br>
