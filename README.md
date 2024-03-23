@@ -11,22 +11,23 @@ I’ve created a sales dashboard on Microsoft Excel. Which is interactive and us
 <br>
 <b>Sales Analysis:</b> Presented a comparative view of sales, profits, and growth between the previous and current year.
 <br>
-<strong>Detailed Tables:</strong> Developed two comprehensive tables detailing sales and growth by sub-category and city for both years.
-
-Visual Insights:
-
-Pie Chart: Illustrated region-wise total sales and sub-category-wise profit distribution.
-Hybrid Chart: Crafted a chart combining bar (for sales) and line (for price) representations to highlight sales trends.
-
-Top Performers:
-
-Bar Chart: Showcased the top 10 best-selling states with a bar chart to identify high-performing regions.
-
-Interactive Elements:
-
-Slicers: Implemented slicers for segments, categories, and regions to enable dynamic data exploration.
-
-
+<b>Detailed Tables:</b> Developed two comprehensive tables detailing sales and growth by sub-category and city for both years.
+<br>
+<b>Visual Insights:</b>
+<br>
+<b>Pie Chart:</b> Illustrated region-wise total sales and sub-category-wise profit distribution.
+<br>
+<b>Hybrid Chart:</b> Crafted a chart combining bar (for sales) and line (for price) representations to highlight sales trends.
+<br>
+<b>Top Performers:</b>
+<br>
+<b>Bar Chart:</b> Showcased the top 10 best-selling states with a bar chart to identify high-performing regions.
+<br>
+<b>Interactive Elements:</b>
+<br>
+<b>Slicers:</b> Implemented slicers for segments, categories, and regions to enable dynamic data exploration.
+<br>
+<br>
 <h2>Why do I use Excel</h2>
 <br>
 Microsoft Excel is a powerful tool with wide-ranging applications across various domains. 
